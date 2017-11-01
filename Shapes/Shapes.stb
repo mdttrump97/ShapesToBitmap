@@ -1,0 +1,11 @@
+Window: Size: 100 X 100 RGB: 0 0 0
+Point: ( 90 , 90 ) RGB: 0 0 0 
+Line: ( 55 , 55 ) ( 72 , 4 ) RBG: 0 0 0
+Rectangle: ( 7 , 7 ) RBG: 0 0 0 Dimensions: 30 X 15
+RightTriangle: ( 30 , 30 ) RBG: 0 0 0 BaseDimensions: 45 X 45
+Star: ( 50 , 50 ) RGB: 0 0 0 SideLength: 30
+Diamond: ( 70 , 70 ) RGB: 0 0 0 Size: 20
+Polygon: ( 60 , 60 ) ( 72 , 100 ) ( 30 , 15 ) ( 47 , 2 ) ( 5 , 5 ) ( 50 , 50 ) RGB: 0 0 0
+Circle: ( 50 , 50 ) RGB: 0 0 0 Radius: 35
+
+Circle: ( 35 , 35 ) RGB: 255 255 0 Radius: 7
